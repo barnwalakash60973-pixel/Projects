@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: my-streamlit-app
-    env: docker
-    plan: free
-    dockerfilePath: fastapi_project/Dockerfile
-    branch: Python_Programming
